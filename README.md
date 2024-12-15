@@ -1,0 +1,1 @@
+Create virtual environment and install requirements. Tested with `python 3.13.1`. Run `python main.py`. Input url and number of slides. Dimension might need to be manually adjusted in code
